@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Himsagar! 👋
 
-<!--
-**skillmas/skillmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Web Developer** and **Freelancer** who builds robust digital experiences. When I'm not writing code, I'm analyzing how to break it (or fix it).
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- 💻 **Full-Stack Development:** Turning complex problems into clean, scalable code.
+- 🛠️ **Freelancing:** Helping clients bring their ideas to life without breaking their production servers.
+- 🎓 **Academics:** Currently pursuing my **BCA** at **Mechi Multiple Campus**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Facts
+- 🧠 I speak fluent English, Nepali, and Stack Overflow.
+- ☕ Powered entirely by caffeine and curiosity.
+- 🕵️‍♂️ If my code works on the first try, I immediately get suspicious.
