@@ -5,7 +5,7 @@ I'm a **Full-Stack Web Developer** and **Freelancer** who builds robust digital 
 ### 🚀 What I Do
 - 💻 **Full-Stack Development:** Turning complex problems into clean, scalable code.
 - 🛠️ **Freelancing:** Helping clients bring their ideas to life without breaking their production servers.
-- 🎓 **Academics:** Currently pursuing my **BCA** at **Mechi Multiple Campus**.
+- 🎓 **Academics:** Currently pursuing my **BCA** at **Still not fixed**.
 
 ### ⚡ Fun Facts
 - 🧠 I speak fluent English, Nepali, and Stack Overflow.
